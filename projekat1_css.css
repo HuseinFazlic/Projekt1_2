@@ -1,0 +1,46 @@
+/*
+Name: Husein Fazlić
+Course: Web Applications Development
+Professor: Ali Almisreb
+Date: November 24th, 2019
+*/
+body { 
+	text-align: center;
+	font-family: Arial;
+	background-color: beige;
+	color: navy;
+	font-size: 24px;
+}
+h1#greeting {
+	font-size: 30px;
+}
+.question_image {
+	display: block;
+	width: 300px;
+	height: 300px;
+	margin: 0px auto;
+	border: 2px solid white;
+}
+.explanation {
+	display: block;
+	width: 800px;
+	margin: 0px auto;
+	font-size: 24px;
+}
+p.question_text {
+	color: navy;
+	font-family: Cambria;
+	font-size: 24px;
+}
+div.question {
+	border: 3px dashed blue;
+	padding: 5px;
+	margin: 5 400 5 400;
+	background-color: lightgrey;
+	height: 100%;
+}
+.button, .next, .top {
+	display: inline-block;
+	font-size: 24px;
+	margin: 8px;
+}
